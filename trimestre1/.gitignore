@@ -1,0 +1,18 @@
+# Compilados de Java
+*.class
+bin/
+build/
+target/
+
+# Configuraciones de editores / IDEs
+.vscode/*
+!.vscode/settings.json
+.idea/
+*.iml
+nbproject/
+nbproject/private/
+
+# Logs y temporales del sistema
+*.log
+.DS_Store
+Thumbs.db
