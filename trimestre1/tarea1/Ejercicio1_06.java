@@ -1,13 +1,14 @@
 /* 
+* Ejercicio 1.06
 * Cálculo del coste final de un vehículo
-* Autor: Borja Costa Rojo
-* Fecha 26/09/2026
+* @autor: Borja Costa Rojo
+* @fecha 26/09/2026
 */
 package trimestre1.tarea1;
 
 import java.util.Scanner;
 
-public class Ejercicio1_6 {
+public class Ejercicio1_06 {
     public static void main(String[] args) {
             final double PORCENTAJE_TIENDA = 10.0;
         final double PORCENTAJE_IMPUESTO = 20.0;

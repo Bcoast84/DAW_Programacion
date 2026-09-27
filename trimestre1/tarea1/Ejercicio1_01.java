@@ -1,13 +1,14 @@
-/* 
+/*
+* Ejercicio 1.01 
 * Convertir euros a dolares
-* Autor: Borja Costa Rojo
-* Fecha 25/09/2026
+* @autor: Borja Costa Rojo
+* @fecha 25/09/2026
 */
 package trimestre1.tarea1;
 
 import java.util.Scanner;
 
-public class Ejercicio1_1 {
+public class Ejercicio1_01 {
     public static void main(String[] args) {
         final double CAMBIO_DOLAR = 1.14; 
         // final hace que sea constante, double el tipo de dato y el nombre en mayúsculas para indicar que es constante.

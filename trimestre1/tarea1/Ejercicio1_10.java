@@ -1,7 +1,8 @@
 /* 
+* Ejercicio 1.10
  * Cálculo de la hipotenusa.
- * Autor: Borja Costa Rojo
- * Fecha: 27/09/2026
+ * @autor: Borja Costa Rojo
+ * @fecha: 27/09/2026
  */
 package trimestre1.tarea1;
 

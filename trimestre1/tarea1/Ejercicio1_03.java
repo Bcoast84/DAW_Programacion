@@ -1,13 +1,14 @@
 /* 
+* Ejercicio 1.03
 * Suma, resta y división de dos números enteros
-* Autor: Borja Costa Rojo
-* Fecha 25/09/2026
+* @autor: Borja Costa Rojo
+* @fecha 25/09/2026
 */
 package trimestre1.tarea1;
 
 import java.util.Scanner;
 
-public class Ejercicio1_3 {
+public class Ejercicio1_03 {
     public static void main(String[] args) {
         try (Scanner teclado = new Scanner(System.in)) {
             System.out.print("Introduce el primer número entero: ");

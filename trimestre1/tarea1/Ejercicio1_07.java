@@ -1,13 +1,14 @@
 /* 
+* Ejercicio 1.07
 * Cálculo del consumo de un vehículo
-* Autor: Borja Costa Rojo
-* Fecha 26/09/2026
+* @autor: Borja Costa Rojo
+* @fecha 26/09/2026
 */
 package trimestre1.tarea1;
 
 import java.util.Scanner;
 
-public class Ejercicio1_7 {
+public class Ejercicio1_07 {
     public static void main(String[] args) {
         try (Scanner teclado = new Scanner(System.in)) {
             System.out.print("Introduce el kilometraje del último repostaje: ");

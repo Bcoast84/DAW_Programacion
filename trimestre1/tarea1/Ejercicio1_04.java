@@ -1,13 +1,14 @@
 /* 
+* Ejercicio 1.04
 * Precio final de un vehículo
-* Autor: Borja Costa Rojo
-* Fecha 25/09/2026
+* @autor: Borja Costa Rojo
+* @fecha 25/09/2026
 */
 package trimestre1.tarea1;
 
 import java.util.Scanner;
 
-public class Ejercicio1_4 {
+public class Ejercicio1_04 {
     public static void main(String[] args) {
         try (Scanner teclado = new Scanner(System.in)) {
             System.out.print("Número de suspensos: ");

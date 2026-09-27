@@ -1,13 +1,14 @@
 /* 
+* Ejercicio 1.08
  * Cálculo de edad media de un conjunto de personas
- * Autor: Borja Costa Rojo
- * Fecha: 27/09/2026
+ * @autor: Borja Costa Rojo
+ * @fecha: 27/09/2026
  */
 package trimestre1.tarea1;
 
 import java.util.Scanner;
 
-public class Ejercicio1_8 {
+public class Ejercicio1_08 {
     public static void main(String[] args) {
         final int TOTAL_PERSONAS = 4; // Definimos total personas por si en el futuro cambiamos el total.
 

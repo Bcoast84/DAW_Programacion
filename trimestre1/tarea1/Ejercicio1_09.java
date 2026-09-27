@@ -1,13 +1,14 @@
 /* 
+* Ejercicio 1.09
  * Correciones al ejercicio.
- * Autor: Borja Costa Rojo
- * Fecha: 27/09/2026
+ * @autor: Borja Costa Rojo
+ * @fecha: 27/09/2026
  */
 package trimestre1.tarea1;
 
 import java.util.Scanner;
 
-public class Ejercicio1_9 {
+public class Ejercicio1_09 {
     public static void main(String[] args) {
         // CORRECCIÓN 1: Declarar e inicializar Scanner con try-with-resources evitando fugas de memoria.
         try (Scanner teclado = new Scanner(System.in)) {

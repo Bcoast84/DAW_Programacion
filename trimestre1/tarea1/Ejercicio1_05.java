@@ -1,13 +1,14 @@
 /* 
+* Ejercicio 1.05
 * Conversión de datos climatológicos
-* Autor: Borja Costa Rojo
-* Fecha 26/09/2026
+* @autor: Borja Costa Rojo
+* @fecha 26/09/2026
 */
 package trimestre1.tarea1;
 
 import java.util.Scanner;
 
-public class Ejercicio1_5 {
+public class Ejercicio1_05 {
     public static void main(String[] args) {
          final double CM_POR_PULGADA = 25.5 / 10.0;
 
