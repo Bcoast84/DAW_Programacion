@@ -1,20 +1,16 @@
-# Compilados de Java
-*.class
-bin/
-build/
-target/
-
-# Configuraciones de editores / IDEs
-.vscode/*
-!.vscode/settings.json
-.idea/
-*.iml
-nbproject/
-nbproject/private/
+Set-Content -Path ".gitignore" -Value @"
+# IDE y editores
 .vscode/
 **/.vscode/
+.idea/
+*.iml
 
-# Logs y temporales del sistema
-*.log
+# Compilación Java
+bin/
+out/
+*.class
+
+# Sistema operativo
+Thumbs.db
 .DS_Store
-Thumbs.dbgit rm -r --cached **/bin/ **/*.class
+"@
