@@ -1,4 +1,4 @@
-Aquí tienes el contenido completo listo para copiar y pegar directamente en tu archivo `README.md`:
+Aquí tienes el contenido completo y actualizado del `README.md` incorporando `trimestre2` y `trimestre3` a la estructura del repositorio y a la guía general:
 
 ```markdown
 # Programación — CFGS Desarrollo de Aplicaciones Web (DAW)
@@ -22,14 +22,16 @@ Repositorio central de prácticas, tareas y proyectos desarrollados para el mód
 DAW_Programacion/
 ├── .gitignore
 ├── README.md
-└── trimestre1/
-    └── tarea1/          # Fundamentos, entrada/salida, condicionales y Math
+├── trimestre1/
+│   └── tarea1/          # Fundamentos, entrada/salida, condicionales y Math
+├── trimestre2/          # POO avanzada, colecciones, excepciones y estructuras dinámicas (en progreso)
+└── trimestre3/          # Persistencia, acceso a datos, interfaces gráficas y modularidad (en progreso)
 
 ```
 
 ---
 
-## 📋 Tarea 1: Fundamentos y Estructuras Secuenciales
+## 📋 Trimestre 1 — Tarea 1: Fundamentos y Estructuras Secuenciales
 
 Colección de ejercicios prácticos orientados al manejo de tipos primitivos, entrada de datos por teclado mediante `Scanner`, control de recursos con `try-with-resources`, formateo de salida con `printf` y operaciones numéricas seguras.
 
@@ -50,7 +52,7 @@ Colección de ejercicios prácticos orientados al manejo de tipos primitivos, en
 
 ## 🚀 Compilación y Ejecución por Consola
 
-Todos los archivos incluyen la cabecera de paquete `package trimestre1.tarea1;`. Para compilarlos y ejecutarlos desde una terminal situada en la raíz del proyecto (`DAW_Programacion/`):
+Todos los archivos incluyen la cabecera correspondiente a su paquete (por ejemplo, `package trimestre1.tarea1;`). Para compilar y ejecutar desde una terminal situada en la raíz del proyecto (`DAW_Programacion/`):
 
 ### 1. Compilación
 
@@ -66,7 +68,7 @@ java trimestre1.tarea1.Ejercicio1_10
 
 ```
 
-> **Nota para VS Code:** Si ejecutas los archivos directamente con el botón de *Run / Debug*, asegúrate de tener abierta en el espacio de trabajo la carpeta raíz que contiene a `trimestre1` para que el servidor de lenguaje resuelva correctamente el *classpath*.
+> **Nota para VS Code:** Si ejecutas los archivos directamente con el botón de *Run / Debug*, asegúrate de tener abierta en el espacio de trabajo la carpeta raíz que contiene las carpetas `trimestreX` para que el servidor de lenguaje resuelva correctamente el *classpath*.
 
 ---
 
@@ -83,7 +85,5 @@ java trimestre1.tarea1.Ejercicio1_10
 
 * **Borja Costa Rojo** — *Desarrollo de Aplicaciones Web (DAW)*
 * GitHub: [@Bcoast84](https://www.google.com/search?q=https://github.com/Bcoast84&utm_source=gemini)
-
-```
 
 ```
