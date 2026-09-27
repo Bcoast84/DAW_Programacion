@@ -11,6 +11,7 @@ target/
 *.iml
 nbproject/
 nbproject/private/
+.vscode/
 
 # Logs y temporales del sistema
 *.log
