@@ -3,7 +3,7 @@
 * Autor: Borja Costa Rojo
 * Fecha 25/09/2026
 */
-package trimestre1;
+package trimestre1.Tarea1;
 
 import java.util.Scanner;
 
