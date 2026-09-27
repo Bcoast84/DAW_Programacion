@@ -22,7 +22,7 @@ public class Ejercicio1_3 {
             System.out.println("Suma: " + suma);
             System.out.println("Resta: " + resta);
 
-            if (num2 == 0) {
+            if (num2 == 0) { // Si el número es cero, no se puede dividir entre cero.
                 System.out.println("Error: no es posible dividir entre cero.");
             } 
             else {
