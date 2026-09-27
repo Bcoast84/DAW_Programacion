@@ -24,8 +24,8 @@ DAW_Programacion/
 ├── README.md
 ├── trimestre1/
 │   └── tarea1/          # Fundamentos, entrada/salida, condicionales y Math
-├── trimestre2/          # POO avanzada, colecciones, excepciones y estructuras dinámicas (en progreso)
-└── trimestre3/          # Persistencia, acceso a datos, interfaces gráficas y modularidad (en progreso)
+├── trimestre2/          
+└── trimestre3/          
 
 ```
 
