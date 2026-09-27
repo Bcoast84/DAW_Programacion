@@ -15,4 +15,4 @@ nbproject/private/
 # Logs y temporales del sistema
 *.log
 .DS_Store
-Thumbs.db
+Thumbs.dbgit rm -r --cached **/bin/ **/*.class
